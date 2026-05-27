@@ -1,0 +1,25 @@
+TEST CASES FOR SCIENTIFIC CALCULATOR
+
+1. Addition Test
+Input:10 + 5
+Output:15
+
+2. Subtraction Test
+Input:20 - 8
+Output:12
+
+3. Multiplication Test
+Input:4 * 6
+Expected Output:24
+
+4. Division by Zero Test
+Input:10 / 0
+Output:Error:Zero division error
+
+5. Invalid Input Test
+Input:abc
+Output:Invalid input 
+
+6. Square Root Test
+Input:25
+Output:5.0
